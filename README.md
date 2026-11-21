@@ -9,7 +9,7 @@
 
 <br/>
 
-![SlowReverb Chrome Extension Preview](./cover.jpg)
+![SlowReverb Chrome Extension Preview](./cover.png)
 
 </div>
 
